@@ -8,8 +8,10 @@ My First Repository
 ![image](https://github.com/JianelVC/app-dev/assets/150680779/d4cc90ee-9735-466f-82a2-468e177a5a14)
 
 Directed by: *Christopher Nolan*
+
 Year       : *2014*
 Box office : *$703.2 million*
+
 
 :cinema: Short Description: 
 
